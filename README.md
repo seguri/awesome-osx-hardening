@@ -15,6 +15,10 @@
 ## FileVault (disk encryption)
 
   - [Clear FileVault encryption keys from memory on standby](http://www.cnet.com/news/prevent-os-x-filevault-keys-from-being-stored-in-standby-mode)
+
+## OpenVPN
+
+  - [Prevent outgoing traffic unless OpenVPN connection is active using pf.conf](https://superuser.com/questions/468919/prevent-outgoing-traffic-unless-openvpn-connection-is-active-using-pf-conf-on-ma)
   
 ## License
 
