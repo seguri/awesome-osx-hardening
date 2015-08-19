@@ -19,6 +19,10 @@
 ## OpenVPN
 
   - [Prevent outgoing traffic unless OpenVPN connection is active using pf.conf](https://superuser.com/questions/468919/prevent-outgoing-traffic-unless-openvpn-connection-is-active-using-pf-conf-on-ma)
+
+## Vulnerabilities
+
+  - [Protect yourself against NULL Pointer Deference bugs](https://github.com/kpwn/NULLGuard)
   
 ## License
 
