@@ -1,5 +1,7 @@
 # Awesome OS X Hardening [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+This is a list of tips, guides and other resources to harden your OSX installation.
+
 ## General Tips
 
   - [Up to 10.10 Yosemite by CIS](http://benchmarks.cisecurity.org/downloads/browse/?category=benchmarks.os.unix.osx)
